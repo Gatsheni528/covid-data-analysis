@@ -56,3 +56,7 @@ This project provides a comprehensive analysis of global COVID-19 data sourced f
 - Visualization helps uncover patterns not immediately obvious in raw data.
 
 ---
+Thanks to Our World in Data for the open-source COVID-19 dataset.
+
+To see the raw data, follow this link:
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
